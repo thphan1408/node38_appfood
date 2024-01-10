@@ -1,5 +1,5 @@
 import express from 'express'
-import rootRoutes from './src/routes/rootRoutes.js'
+import rootRoutes from './routes/rootRoutes.js'
 
 const app = express()
 const port = 8080
